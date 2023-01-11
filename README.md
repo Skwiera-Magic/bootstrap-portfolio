@@ -21,7 +21,7 @@
 
 ### Links
 
-* You can see deployed portolio here: https://skwiera-magic.github.io/bootstrap-portfolio/
+* You can see deployed portolio here: https://skwiera-magic.github.io/portfolio/
 
 ## Author
 - Skwiera-Magic - [My GitHub](https://github.com/Skwiera-Magic/)
