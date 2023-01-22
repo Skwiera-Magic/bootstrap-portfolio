@@ -12,8 +12,7 @@
 
 * After creating couple projects you usually want to show them somewhere. 
 * So with a little nudge from outside I've created one for myself. 
-* At the moment it's not much, only 4 of my projects and 1 stock item.
-* But the grid will grow, probably glow a little more as well. 
+* I know it's all basic so don't break my heart saying it loud to me :D
 
 ### Screenshot
 
