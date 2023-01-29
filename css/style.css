@@ -65,6 +65,10 @@ footer {
   border-radius: 15px;
 }
 
+.contact-link {
+  color: black;
+}
+
 
 @media only screen and (min-width: 992px) {
   .about, .grid {
